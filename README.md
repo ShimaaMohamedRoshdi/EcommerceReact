@@ -16,7 +16,7 @@ This project is an eCommerce website built using **React JS** and **Tailwind CSS
 - Display all products available on the site
 - **Product Filter** to narrow down options
 - **Product Sort** feature for sorting by price, popularity, etc.
-- **Product Search** functionality for easy navigation
+- **Product Search** functionality for easy navigation..
 
 ### Product Page
 - **Image Gallery** showcasing product images
